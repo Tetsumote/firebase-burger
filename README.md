@@ -1,2 +1,2 @@
-# firebase-burger
+# tetsumote-Burgerbuilder
 Created with CodeSandbox
