@@ -14,7 +14,7 @@ import * as burgerBuilderActions from "../../store/actions/index";
 
 //https://firebase.google.com/docs/rules/insecure-rules#database
 
-class BurgerBuilder extends Component {
+export class BurgerBuilder extends Component {
   state = {
     purchasing: false
     // loading: false,
